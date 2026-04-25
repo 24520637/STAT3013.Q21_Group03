@@ -1,0 +1,6 @@
+Category,Best_Variant,Ljung_Box_pvalue_lag10
+Clothing,ARIMAX_A,0.028
+Electronics,SARIMAX_A,0.0
+Furniture,ARIMAX_A,1.0
+Groceries,ARIMA_A,1.0
+Toys,ARIMAX_A,1.0
