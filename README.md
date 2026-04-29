@@ -14,7 +14,7 @@ How to Run on Google Colab
 
 Dataset link: [https://www.kaggle.com/datasets/utkalk/large-retail-data-set-for-eda](url)
 
-Video link: 
+Video link: [https://drive.google.com/file/d/1it7ILFMB74KzZ7aWzKnNjWAwpAaswiiQ/view](url)
 
 License: Academic/research use only.
 
