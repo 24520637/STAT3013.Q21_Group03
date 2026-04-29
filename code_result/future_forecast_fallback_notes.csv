@@ -1,6 +1,0 @@
-Category,Original_Best_Model,Fallback_Model,Reason,Decision_Type
-Clothing,SARIMA-family,LightGBM,75% of predictions were below 30% of recent 8-week mean demand (9213.62),Future forecast plausibility guardrail; backtest winner unchanged
-Electronics,SARIMA-family,None,"No fallback: forecast stayed within plausibility band based on recent mean=9181.25, recent median=9406.50.",No fallback needed
-Furniture,SARIMA-family,LightGBM,50% of predictions were zero/negative; 75% of predictions were below 30% of recent 8-week mean demand (9176.00),Future forecast plausibility guardrail; backtest winner unchanged
-Groceries,SARIMA-family,LightGBM,75% of predictions were below 30% of recent 8-week mean demand (9217.38),Future forecast plausibility guardrail; backtest winner unchanged
-Toys,SARIMA-family,LightGBM,75% of predictions were below 30% of recent 8-week mean demand (9296.12),Future forecast plausibility guardrail; backtest winner unchanged
