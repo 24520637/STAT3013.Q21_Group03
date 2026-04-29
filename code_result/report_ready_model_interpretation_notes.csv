@@ -1,6 +1,0 @@
-Category,Selected_Model_for_Report,Best_RMSE,Naive_RMSE,Beat_Naive,Report_Interpretation
-Clothing,SARIMA-family,731.7,807.84,True,"Final selected model by RMSE: SARIMA-family (RMSE=731.70). Metric disagreement: RMSE=SARIMA-family, MAE=LightGBM, sMAPE=SARIMA-family. RMSE is kept as the primary metric because large demand errors are more costly for inventory planning. Best model beats Naive baseline by 9.43% RMSE."
-Electronics,SARIMA-family,521.79,708.68,True,"Final selected model by RMSE: SARIMA-family (RMSE=521.79). RMSE, MAE, and sMAPE select the same model. Best model beats Naive baseline by 26.37% RMSE."
-Furniture,SARIMA-family,594.26,780.22,True,"Final selected model by RMSE: SARIMA-family (RMSE=594.26). RMSE, MAE, and sMAPE select the same model. Best model beats Naive baseline by 23.83% RMSE."
-Groceries,SARIMA-family,567.87,541.17,False,"Final selected model by RMSE: SARIMA-family (RMSE=567.87). RMSE, MAE, and sMAPE select the same model. Naive baseline has lower RMSE than all four main models; discuss this category as a limitation."
-Toys,SARIMA-family,571.03,640.21,True,"Final selected model by RMSE: SARIMA-family (RMSE=571.03). RMSE, MAE, and sMAPE select the same model. Best model beats Naive baseline by 10.81% RMSE."
